@@ -70,6 +70,15 @@ section h3 {
   color: #0066cc;
 }
 
+.activity-card h5 {
+  margin-top: 15px;
+  margin-bottom: 10px;
+  font-size: 16px;
+  color: #1a237e;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 5px;
+}
+
 .activity-card p {
   margin-bottom: 8px;
 }
